@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: goldenrod;
+}
+
+.main {
+    height: auto;
+}
+
+.boxname {
+     padding: 3px;
+     background-color: darkgoldenrod;
+     text-align: center;
+}
